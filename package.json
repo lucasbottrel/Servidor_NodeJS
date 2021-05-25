@@ -1,0 +1,17 @@
+{
+  "name": "servidor_nodejs",
+  "version": "1.0.0",
+  "description": "Servidor criado de teste usando node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Bottrel Lopes de Moura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
